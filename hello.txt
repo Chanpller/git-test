@@ -13,4 +13,4 @@ hello git! hello word!
 hello git! hello word!
 hello git! hello word!
 hello git! hello word!
-hello git! hello word! this is hot-fix modified
+hello git! hello word! this is hot-fix modified，modified new hot-fix
